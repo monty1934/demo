@@ -1,0 +1,39 @@
+im abillioniare i got 21 lac package i m intensively sticked to my daily routine , working on my daily goals and accomplishing it.
+im confident in my interviews , im fully prepared for my placements , and im a billioniare , igot 21 lac package , im fully commited to my goals
+
+
+
+11) to check the status of git repository 
+
+$ git status
+
+12) to make your directory a git repository
+
+$ git init
+
+13) to make all of the files and folders in git repository ready for next commit (Or we can say putting them in staging area)
+
+$ git add --a
+
+14)To commit (Or we can say taking snapshot of your staged files)
+
+$ git commit -m "<message>"
+
+15)To see recent commits on git repository
+
+$ git log
+
+16)To stage particular files in your git for next commit
+
+$ git add <file name>
+
+11) to delete git repository
+
+rm -rf .git
+
+im a billioniare i s
+got 21 lac package im working on my daily goals im working on my diet 
+im confident in my interviews im fully prepared for my placement
+i study 8hrs a day
+im confident enough to handle each and every situation in my life
+my communication skills are good
